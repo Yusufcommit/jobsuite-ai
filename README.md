@@ -7,8 +7,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=flat&logo=vercel)
 
-**Live Demo:** coming soon  
-**Backend Repo:** [jobsuite-backend](https://github.com/Yusufcommit/jobsuite-backend)
+**Live Demo:** https://jobsuite-ai.vercel.app  
+**Backend Repo:** [jobsuite-backend](https://github.com/Yusufcommit/jobsuite-backend)  
+**Live API:** https://jobsuite-backend.onrender.com
 
 ---
 
@@ -39,7 +40,7 @@ Three AI tools in one clean dashboard:
 | Language | TypeScript |
 | Styling | Tailwind CSS |
 | State | React hooks |
-| API | FastAPI + Groq LLM |
+| API | FastAPI + Groq Llama 3 |
 | Deployment | Vercel |
 
 ---
@@ -94,10 +95,10 @@ jobsuite-ai/
 - [x] Cover Letter Generator with tone selector
 - [x] JD Matcher with skill gap detection
 - [x] Loading states and error handling
+- [x] Production deployment on Vercel
 - [ ] Authentication
 - [ ] Save results history
 - [ ] Mobile polish
-- [ ] Production deployment
 
 ---
 
